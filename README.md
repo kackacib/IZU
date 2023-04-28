@@ -1,2 +1,2 @@
 # IZU
-University projects for IZU (Základy umělé inteligence - Fundamentals of Artificial Intelligence)
+Univerzitní projekty pro předmět IZU (Základy umělé inteligence - Fundamentals of Artificial Intelligence) v jazyce Prolog.
